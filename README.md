@@ -11,7 +11,7 @@
 💡 &nbsp; I'm a software developer and researcher at Digital University Kerala, currently working in the field of Cognitive Architectures.\
 🎓 &nbsp;I'm currently pursuing MSc in Computer Science with specialization in Machine Intelligence at Digital University Kerala.\
 🌱 &nbsp;I'm on track for learning Bio-Inspired Artificial Intelligence and Artificial General Intelligence.\
-✍️ &nbsp;In my free time, I play guitar, sing and read both fiction and non-fiction books as my hobbies.\
+✍️ &nbsp;Other than coding, I play guitar!.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at geeythree@gmail.com. I'll try to respond as soon as possible!
 
