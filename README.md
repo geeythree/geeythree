@@ -5,14 +5,15 @@
 ![profile count](https://komarev.com/ghpvc/?username=geeythree&color=red)&nbsp;
 [![GitHub geeythree](https://img.shields.io/github/followers/geeythree?label=follow&style=social)](https://github.com/geeythree)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-### 👨🏻‍💻 &nbsp;About Me
+
+### :girl: 💻 &nbsp;About Me
 
 💡 &nbsp; I'm a software developer and researcher at Digital University Kerala, currently working in the field of Cognitive Architectures.\
 🎓 &nbsp;I'm currently pursuing MSc in Computer Science with specialization in Machine Intelligence at Digital University Kerala.\
 🌱 &nbsp;I'm on track for learning Bio-Inspired Artificial Intelligence and Artificial General Intelligence.\
 ✍️ &nbsp;In my free time, I play guitar, sing and read both fiction and non-fiction books as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at geeythree@gmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at geeythree@gmail.com. I'll try to respond as soon as possible!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -29,8 +30,11 @@
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 
-### 📫 &nbsp; How to reach me:
+### :zap: &nbsp;Github Stats
+ 
+ <img align="left" alt="Geeythree's GitHub Stats" src="https://github-readme-stats-geeythree.vercel.app/api?username=geeythree&showicons=true&hide_border=true" />
 
+### 📫 &nbsp; Reach me out:
 
 <a href="https://www.linkedin.com/in/geeythree/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:geeythree@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
