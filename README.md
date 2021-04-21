@@ -32,7 +32,7 @@
 
 ### :zap: &nbsp;Github Stats
  
- <img align="left" alt="Geeythree's GitHub Stats" src="https://github-readme-stats-geeythree.vercel.app/api?username=geeythree&showicons=true&hide_border=true" />
+ <img align="center" alt="Geeythree's GitHub Stats" src="https://github-readme-stats-geeythree.vercel.app/api?username=geeythree&showicons=true&hide_border=true" />
 
 ### 📫 &nbsp; Reach me out:
 
