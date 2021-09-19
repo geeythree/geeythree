@@ -8,18 +8,16 @@
 
 ### :girl: 💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and researcher at Digital University Kerala, currently working in the field of Cognitive Architectures.\
 🎓 &nbsp;I'm currently pursuing MSc in Computer Science with specialization in Machine Intelligence at Digital University Kerala.\
-🌱 &nbsp;I'm on track for learning Bio-Inspired Artificial Intelligence and Artificial General Intelligence.\
-✍️ &nbsp;Other than coding, I play guitar!.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at geeythree@gmail.com. I'll try to respond as soon as possible!
+💡 &nbsp;I'm a research intern at NeuroAGI, DUK; currently working on Bio-inspired Machine Intelligence.\
+🌱 &nbsp;I love learning about Artificial General Intelligence and developing cool websites.\
+⚡ &nbsp;When I'm not coding I play guitar!😄
+💬 &nbsp;Feel free to reach out to me for discussions on the aforementioned topics!\
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
