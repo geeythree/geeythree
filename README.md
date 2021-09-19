@@ -9,10 +9,10 @@
 ### :girl: 💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently pursuing MSc in Computer Science with specialization in Machine Intelligence at Digital University Kerala.\
-💡 &nbsp;I'm a research intern at NeuroAGI, DUK; currently working on Bio-inspired Machine Intelligence.\
+💡 &nbsp; I'm a research intern at NeuroAGI, DUK; currently working on Bio-inspired Machine Intelligence.\
 🌱 &nbsp;I love learning about Artificial General Intelligence and developing cool websites.\
-⚡ &nbsp;When I'm not coding I play guitar!😄
-💬 &nbsp;Feel free to reach out to me for discussions on the aforementioned topics!\
+⚡ &nbsp;When I'm not coding I play guitar!😄 \
+💬 &nbsp;Feel free to reach out to me for discussions on the aforementioned topics! 
 
 ### 🛠 &nbsp;Tech Stack
 
