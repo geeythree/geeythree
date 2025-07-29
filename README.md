@@ -8,7 +8,7 @@
 
 ### :girl: 💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently working as a Data Scientist.\
+🎓 &nbsp;I'm currently working as an AI Engineer.\
 🌱 &nbsp;I love learning about AI, Neuroscience and developing cool websites.\
 ⚡ &nbsp;When I'm not coding I play guitar!😄 \
 💬 &nbsp;Feel free to reach out to me for discussions on the aforementioned topics! 
